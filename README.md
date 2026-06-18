@@ -7,7 +7,7 @@ A API de notas mínima construída com **Express**, **CORS** e **body‑parser**
 
 ## Instalação
 ```bash
-cd /home/impar/github-projects/node-express-notes
+cd /home/github-projects/node-express-notes
 npm install   # instala dependências
 ```
 
